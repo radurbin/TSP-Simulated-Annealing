@@ -37,7 +37,7 @@ g++ TSP_Original.cpp -O3
 
 ## Help
 
-For more details, please refer to the report file 'RileyDurbinTSPReport.pdf'.
+For more details, please refer to the report file 'Report.pdf'.
 
 ## Authors
 
